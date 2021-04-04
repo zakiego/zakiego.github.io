@@ -1,0 +1,35 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-ea788b66a114fe6e8795.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-ac74a4aae5fcc37cc464.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-06f646d936b841f99ebd.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-a2c95606792f7c13b441.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/zakiego.github.io/
+  Link: </zakiego.github.io/webpack-runtime-ac74a4aae5fcc37cc464.js>; rel=preload; as=script
+  Link: </zakiego.github.io/framework-06f646d936b841f99ebd.js>; rel=preload; as=script
+  Link: </zakiego.github.io/app-a2c95606792f7c13b441.js>; rel=preload; as=script
+  Link: </zakiego.github.io/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-ea788b66a114fe6e8795.js>; rel=preload; as=script
+  Link: </zakiego.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </zakiego.github.io/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/zakiego.github.io/offline-plugin-app-shell-fallback/
+  Link: </zakiego.github.io/webpack-runtime-ac74a4aae5fcc37cc464.js>; rel=preload; as=script
+  Link: </zakiego.github.io/framework-06f646d936b841f99ebd.js>; rel=preload; as=script
+  Link: </zakiego.github.io/app-a2c95606792f7c13b441.js>; rel=preload; as=script
+  Link: </zakiego.github.io/component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js>; rel=preload; as=script
+  Link: </zakiego.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </zakiego.github.io/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
