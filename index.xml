@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zakiego</title>
+    <link>http://zakiego.my.id/</link>
+    <description>Recent content on Zakiego</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://zakiego.my.id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tentang Saya 🧑🏻‍💻</title>
+      <link>http://zakiego.my.id/tentang-saya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zakiego.my.id/tentang-saya/</guid>
+      <description>Selalu senang mecoba hal-hal baru. Menghabiskan waktu dengan belajar sendiri, mencoba-coba, tanpa takut salah, sembari mengetik di pencarian Google &amp;ldquo;how to &amp;hellip;&amp;rdquo;.
+Tertarik dengan dunia data sejak awal pandemi. Mulai memahami bagaimana data bekerja. Dalam satu tahun lebih, cukup untuk mengkhatamkan rumus-rumus Google Spreadsheet. Beranjak ke bahasa pemrograman R. Dan, yang terakhir masih berusaha menjinakkan Python.</description>
+    </item>
+    
+    <item>
+      <title>Terima Kasih! 😼</title>
+      <link>http://zakiego.my.id/terima-kasih/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zakiego.my.id/terima-kasih/</guid>
+      <description>Pesannya akan sa baca 🙋‍♂️
+Nanti kalo perlu respons sa pesan balik 👻</description>
+    </item>
+    
+    <item>
+      <title>Tinggalkan Pesan ✉️</title>
+      <link>http://zakiego.my.id/tinggalkan-pesan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zakiego.my.id/tinggalkan-pesan/</guid>
+      <description>Kali aja gitu ada yang mau dibicarain, tapi kurang nyaman bicara langsung, bisa disampaika lewat sini 🧐</description>
+    </item>
+    
+  </channel>
+</rss>
