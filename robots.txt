@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://zakiego.my.id/sitemap.xml
